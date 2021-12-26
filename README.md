@@ -21,7 +21,7 @@ Use django vue to implement web projects with separation of front and back ends,
     4. Use restframework to add serializer, viewset, urls
     5. Set cross-domain cors headers
 2. Front end
-    1. Install node vue / Taobao mirror has been configured in advance
+    1. Install node vue has been configured in advance
     2. Create a front-end project with vue-cli
     3. Modify index.html homepage to add bootstrap css framework and fontawsome font dependency
     4. Modify App.vue and core components
